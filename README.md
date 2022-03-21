@@ -4,6 +4,8 @@
 
 Quick and easy instructions to make a gridded version of a terrain or floor tile for RPG or wargaming.
 
+## Instructions
+
 As an example I use Devon Jones' [OpenForge Tundra Terrain](https://www.patreon.com/posts/landscapes-iced-63189276).
 
 1. Load your floor into PrusaSlicer
